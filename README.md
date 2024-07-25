@@ -25,7 +25,7 @@
     
 
 ## Contributing
-[Uploading Screenshot (417).png..](https://github.com/irwantigani/Travel-ambon/issues/1#issue-2430124600)
+Screenshot (417).png
 
 ## Code of Conduct
 
