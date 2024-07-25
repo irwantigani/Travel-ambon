@@ -24,8 +24,8 @@
     5. peta
     
 ## Contributing
-
-Screenshot (417).png
+[
+Screenshot (417).png](https://github.com/irwantigani/Travel-ambon/blob/main/Screenshot%20(417).png)
 
 ## Code of Conduct
 
