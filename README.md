@@ -21,8 +21,10 @@
     3. Galeri
     4. Berita
     5. peta
-    
+        
 ## Contributing
+![Screenshot (418)](https://github.com/user-attachments/assets/d0a6e65a-d9c5-4878-ae08-5891ac4d8c87)
+
 ![Screenshot (417)](https://github.com/user-attachments/assets/496a16c4-4512-4b2f-b362-aeb310514a15)
 
 ## Code of Conduct
