@@ -25,7 +25,8 @@
 ## acivitas Admin
 ![Screenshot (418)](https://github.com/user-attachments/assets/d0a6e65a-d9c5-4878-ae08-5891ac4d8c87)
 
-![Screenshot (417)](https://github.com/user-attachments/assets/496a16c4-4512-4b2f-b362-aeb310514a15)
+![Screenshot (417)](https://github.com/user-attachments/assets/b80f18b2-ffb6-488e-8dda-f7cd2af08c63)
+
 
 ## Code of Conduct
 
