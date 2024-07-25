@@ -27,15 +27,41 @@
 
 ![Screenshot (417)](https://github.com/user-attachments/assets/b80f18b2-ffb6-488e-8dda-f7cd2af08c63)
 
+## Instalasi
 
-## Code of Conduct
+clone project atau download
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+```bash
+  git clone git@github.com:irwantigani/Travel-ambon.git
+  cd Travel-ambon
+  npm install
+  composer install
+  cp .env.example .env
+```
 
-## Security Vulnerabilities
+Buka `.env` dan atur database anda
+```bash
+  DB_PORT=3306
+  DB_DATABASE=laravel
+  DB_USERNAME=root
+  DB_PASSWORD=
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Install website
+```bash
+  php artisan key:generate
+  php artisan migrate --seed
+```
 
-## License
+Jalankan website
+```bash
+  php artisan serve
+```
+## Default akun untuk testing
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Admin
+```bash
+  email : irwantigani@gmail.com
+  password : 12345678
+```
+
