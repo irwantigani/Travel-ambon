@@ -1,5 +1,4 @@
 
-
 ## About Ambon travel
  website Ambon travel adalah website yang di gunakan untuk menginformasikan tentang destinasi wisata, Galeri Wisata, Berita dan peta kepada seluruh masyarakat dan wisatawan yang 
  mencari rekomendasi destinasi wisata di kota ambon.
@@ -24,7 +23,7 @@
     5. peta
     
 ## Contributing
-[Screenshot (417).png](https://github.com/irwantigani/Travel-ambon/blob/main/Screenshot%20(417).png)
+![Screenshot (417)](https://github.com/user-attachments/assets/496a16c4-4512-4b2f-b362-aeb310514a15)
 
 ## Code of Conduct
 
